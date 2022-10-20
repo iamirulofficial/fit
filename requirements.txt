@@ -1,4 +1,4 @@
-cv2
+opencv-python
 ffmpeg-python
 mediapipe
 cv2_plt_imshow
