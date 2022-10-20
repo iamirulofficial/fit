@@ -3,3 +3,4 @@ ffmpeg-python
 mediapipe
 cv2_plt_imshow
 sklearn
+tqdm
